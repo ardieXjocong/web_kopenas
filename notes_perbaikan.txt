@@ -1,0 +1,27 @@
+<?php
+// --------------------------------------------HISTORY PERBAIKAN------------------------------------------------------- //
+/*	Programmer 		     Tanggal		      Description 										File Revision
+ *  ------------------------------------------------------------------------------------------------------------ APRIL 2016 
+ * -ARDIANSYAH         -2016-04-04     - Input Manual Tgl Simpanan     						view/simpanan/addSimpanan.php
+ * -ARDIANSYAH         -2016-04-04     - Ubah Nilai Simpanan Wajib     						config/config.inc.php
+ * -ARDIANSYAH         -2016-04-05     - Input Manual Tgl Pinjaman     						view/simpanan/addPinjaman.php
+ * -ARDIANSYAH         -2016-04-05     - Input Manual Tgl Penarikan simpanan     			view/simpanan/addPenarikan.php
+ * -ARDIANSYAH         -2016-04-05     - Input Manual Tgl Angsuran pinjaman    		 		view/simpanan/addAngsuran.php
+ * -ARDIANSYAH         -2016-04-08     - Perbaiki Bulan & Tahun Perioder Detail Simpanan	view/simpanan/index.php 
+ */
+
+
+// 9bff4b8d4dcb29e5266df8716ce34ad7
+// UPDATE tbl_anggota SET anggota_password = MD5('12345') WHERE anggota_id = 'AG-002';
+
+
+
+
+// 2016-10-06
+// Error 
+/*
+Notice: A session had already been started - ignoring session_start() in C:\xampp\htdocs\web_kopenas\adminsite\model\admin.php on line 33
+{"status":1,"txt":"view/beranda/?first=welcome"}
+*/
+
+?>

@@ -1,0 +1,6 @@
+[02-Jun-2016 05:02:27 America/Chicago] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/kopenasco/public_html/adminsite/view/anggota/viewAnggota.php on line 13
+[02-Jun-2016 05:05:43 America/Chicago] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/kopenasco/public_html/adminsite/view/anggota/viewAnggota.php on line 13
+[07-Jun-2016 22:11:20 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/kopenasco/public_html/adminsite/view/anggota/lapAnggota.php on line 8
+[09-Jun-2016 00:27:20 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/kopenasco/public_html/adminsite/view/anggota/lapAnggota.php on line 8
+[09-Jun-2016 00:29:02 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/kopenasco/public_html/adminsite/view/anggota/lapAnggota.php on line 8
+[15-Sep-2016 08:08:58 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/kopenasco/public_html/adminsite/view/anggota/lapAnggota.php on line 8

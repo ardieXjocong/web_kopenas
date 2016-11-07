@@ -1,0 +1,2 @@
+[20-May-2016 02:49:08 Asia/Jakarta] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/kopenasco/public_html/adminsite/view/laporan/LaporanSimpananAnggota.php on line 12
+[20-May-2016 02:49:08 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kopenasco/public_html/adminsite/view/laporan/LaporanSimpananAnggota.php on line 12

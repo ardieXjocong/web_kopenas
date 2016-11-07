@@ -1,0 +1,3 @@
+[31-May-2016 02:29:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/kopenasco/public_html/adminsite/view/simpanan/autosuggest_anggota.php on line 6
+[31-May-2016 02:29:05 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/kopenasco/public_html/adminsite/view/simpanan/autosuggest_anggota.php on line 12
+[31-May-2016 04:34:39 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home/kopenasco/public_html/adminsite/config/database.inc.php on line 14
